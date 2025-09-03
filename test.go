@@ -9,3 +9,7 @@ func main() {
 
 	println("Hello, World! 6")
 }
+
+func add() {
+	println("Add function")
+}
