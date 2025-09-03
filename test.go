@@ -9,3 +9,13 @@ func main() {
 
 	println("Hello, World! 6")
 }
+
+func add() {
+	println("Add function")
+
+}
+
+func remove() {
+	println("Add function")
+
+}
