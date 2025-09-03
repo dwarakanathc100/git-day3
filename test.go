@@ -12,4 +12,10 @@ func main() {
 
 func add() {
 	println("Add function")
+
+}
+
+func remove() {
+	println("Add function")
+
 }
