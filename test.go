@@ -17,5 +17,4 @@ func add() {
 
 func remove() {
 	println("Add function")
-
 }
